@@ -1,0 +1,15 @@
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\FSCC.Core.dll
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\FSCC.Core.pdb
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\EntityFramework.dll
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\EntityFramework.xml
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\bin\Debug\Z.EntityFramework.Extensions.xml
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\obj\Debug\FSCC.Core.csprojAssemblyReference.cache
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\obj\Debug\FSCC.Core.csproj.CoreCompileInputs.cache
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\obj\Debug\FSCC.Core.csproj.CopyComplete
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\obj\Debug\FSCC.Core.dll
+C:\Users\SeverinasFomkinas\source\repos\FSCC\FSCC.Core\obj\Debug\FSCC.Core.pdb
